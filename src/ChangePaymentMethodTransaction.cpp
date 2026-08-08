@@ -1,7 +1,7 @@
 #include "ChangePaymentMethodTransaction.h"
 
-#include "Employee.h"
-#include "PaymentMethod.h"
+#include "PayrollDomain/Employee.h"
+#include "PayrollDomain/PaymentMethod.h"
 
 
 ChangePaymentMethodTransaction::

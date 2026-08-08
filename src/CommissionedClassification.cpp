@@ -1,5 +1,5 @@
 #include "CommissionedClassification.h"
-#include "Paycheck.h"
+#include "PayrollDomain/Paycheck.h"
 #include "SalesReceipt.h"
 
 CommissionedClassification::CommissionedClassification(

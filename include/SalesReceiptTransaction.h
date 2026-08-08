@@ -1,8 +1,8 @@
 #ifndef SALESRECEIPTTRANSACTION_H
 #define SALESRECEIPTTRANSACTION_H
 
-#include "Transaction.h"
-#include "Date.h"
+#include "PayrollDomain/Transaction.h"
+#include "PayrollDomain/Date.h"
 
 
 class SalesReceiptTransaction : public Transaction

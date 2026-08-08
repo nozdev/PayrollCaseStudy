@@ -1,8 +1,8 @@
 #include "PaydayTransaction.h"
 
-#include "Employee.h"
+#include "PayrollDomain/Employee.h"
 #include "PayrollDatabase.h"
-#include "Paycheck.h"
+#include "PayrollDomain/Paycheck.h"
 
 extern PayrollDatabase GpayrollDatabase;
 

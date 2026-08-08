@@ -1,7 +1,7 @@
 #ifndef DIRECTMETHOD_H
 #define DIRECTMETHOD_H
 
-#include "PaymentMethod.h"
+#include "PayrollDomain/PaymentMethod.h"
 #include <string>
 
 

@@ -1,8 +1,8 @@
 #ifndef SERVICECHARGETRANSACTION_H
 #define SERVICECHARGETRANSACTION_H
 
-#include "Transaction.h"
-#include "Date.h"
+#include "PayrollDomain/Transaction.h"
+#include "PayrollDomain/Date.h"
 
 
 class ServiceChargeTransaction :

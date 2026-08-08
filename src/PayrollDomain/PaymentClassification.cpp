@@ -1,4 +1,4 @@
-#include "PaymentClassification.h"
+#include "PayrollDomain/PaymentClassification.h"
 
 PaymentClassification::~PaymentClassification()
 {

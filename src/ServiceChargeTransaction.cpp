@@ -1,6 +1,6 @@
 #include "ServiceChargeTransaction.h"
 
-#include "Employee.h"
+#include "PayrollDomain/Employee.h"
 #include "ServiceCharge.h"
 #include "PayrollDatabase.h"
 #include "UnionAffiliation.h"

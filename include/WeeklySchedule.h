@@ -1,8 +1,8 @@
 #ifndef WEEKLYSCHEDULE_H
 #define WEEKLYSCHEDULE_H
 
-#include "PaymentSchedule.h"
-#include "Date.h"
+#include "PayrollDomain/PaymentSchedule.h"
+#include "PayrollDomain/Date.h"
 
 class WeeklySchedule : public PaymentSchedule
 {

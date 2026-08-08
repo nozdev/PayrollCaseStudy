@@ -1,8 +1,8 @@
 #ifndef UNIONAFFILIATION_H
 #define UNIONAFFILIATION_H
 
-#include "Affiliation.h"
-#include "Date.h"
+#include "PayrollDomain/Affiliation.h"
+#include "PayrollDomain/Date.h"
 #include "ServiceCharge.h"
 
 #include <vector>

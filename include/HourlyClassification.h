@@ -1,8 +1,8 @@
 #ifndef HOURLYCLASSIFICATION_H
 #define HOURLYCLASSIFICATION_H
 
-#include "PaymentClassification.h"
-#include "Date.h"
+#include "PayrollDomain/PaymentClassification.h"
+#include "PayrollDomain/Date.h"
 #include <vector>
 
 class Paycheck;

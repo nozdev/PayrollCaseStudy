@@ -1,5 +1,5 @@
 #include "UnionAffiliation.h"
-#include "Paycheck.h"
+#include "PayrollDomain/Paycheck.h"
 #include "ServiceCharge.h"
 #include <iostream>
 UnionAffiliation::UnionAffiliation(

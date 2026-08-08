@@ -1,5 +1,5 @@
 #include "MailMethod.h"
-#include "Paycheck.h"
+#include "PayrollDomain/Paycheck.h"
 
 
 MailMethod::MailMethod(std::string address)

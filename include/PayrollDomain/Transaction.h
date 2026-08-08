@@ -4,7 +4,7 @@
 class Transaction
 {
 public:
-    virtual ~Transaction();
+    virtual ~Transaction() = default;
 
     virtual void Execute() = 0;
 };

@@ -1,8 +1,8 @@
 #ifndef SALARIEDCLASSIFICATION_H
 #define SALARIEDCLASSIFICATION_H
 
-#include "PaymentClassification.h"
-#include "Date.h"
+#include "PayrollDomain/PaymentClassification.h"
+#include "PayrollDomain/Date.h"
 
 class Paycheck;
 

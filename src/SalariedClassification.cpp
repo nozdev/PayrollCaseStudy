@@ -1,5 +1,5 @@
 #include "SalariedClassification.h"
-#include "Paycheck.h"
+#include "PayrollDomain/Paycheck.h"
 
 SalariedClassification::SalariedClassification(
     double salary)

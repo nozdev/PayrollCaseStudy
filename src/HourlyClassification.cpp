@@ -1,5 +1,5 @@
 #include "HourlyClassification.h"
-#include "Paycheck.h"
+#include "PayrollDomain/Paycheck.h"
 #include "TimeCard.h"
 
 HourlyClassification::HourlyClassification(

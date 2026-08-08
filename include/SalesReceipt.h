@@ -1,7 +1,7 @@
 #ifndef SALESRECEIPT_H
 #define SALESRECEIPT_H
 
-#include "Date.h"
+#include "PayrollDomain/Date.h"
 
 
 class SalesReceipt

@@ -1,10 +1,10 @@
-#include "Employee.h"
+#include "PayrollDomain/Employee.h"
 
 #include "NoAffiliation.h"
-#include "PaymentClassification.h"
-#include "PaymentSchedule.h"
-#include "PaymentMethod.h"
-#include "Paycheck.h"
+#include "PayrollDomain/PaymentClassification.h"
+#include "PayrollDomain/PaymentSchedule.h"
+#include "PayrollDomain/PaymentMethod.h"
+#include "PayrollDomain/Paycheck.h"
 
 
 Employee::~Employee()

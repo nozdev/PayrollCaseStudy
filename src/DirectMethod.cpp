@@ -1,5 +1,5 @@
 #include "DirectMethod.h"
-#include "Paycheck.h"
+#include "PayrollDomain/Paycheck.h"
 
 
 DirectMethod::DirectMethod(

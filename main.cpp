@@ -1,19 +1,17 @@
 #include "PayrollTest.h"
 #include <iostream>
-#include "Date.h"
+#include "PayrollDomain/Date.h"
+#include "TransactionFactory/TransactionFactory.h"
+#include "TransactionFactory/TransactionFactoryImplementation.h"
+
 using namespace std;
 int main()
 {
 
-Date d(11,30,2001);
-Date tomorrow = d + 1;
+    TransactionFactoryImplementation factory;
+    TransactionFactory::SetFactory(&factory);
 
-cout << tomorrow.GetMonth()
-     << "/"
-     << tomorrow.GetDay()
-     << "/"
-     << tomorrow.GetYear();
-
+ 
     PayrollTest test;
 
     test.TestPaySingleHourlyEmployeeOnWrongDate();

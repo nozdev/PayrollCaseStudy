@@ -1,4 +1,4 @@
-#include "Paycheck.h"
+#include "PayrollDomain/Paycheck.h"
 
 Paycheck::Paycheck(
     const Date& payPeriodStartDate,

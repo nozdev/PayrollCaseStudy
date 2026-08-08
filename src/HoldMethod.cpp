@@ -1,6 +1,6 @@
 #include "HoldMethod.h"
 
-#include "Paycheck.h"
+#include "PayrollDomain/Paycheck.h"
 
 
 HoldMethod::~HoldMethod()

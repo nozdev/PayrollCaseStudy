@@ -1,7 +1,7 @@
 #ifndef DELETEEMPLOYEETRANSACTION_H
 #define DELETEEMPLOYEETRANSACTION_H
 
-#include "Transaction.h"
+#include "PayrollDomain/Transaction.h"
 
 class DeleteEmployeeTransaction : public Transaction
 {

@@ -1,6 +1,6 @@
 #include "AddEmployeeTransaction.h"
 #include "HoldMethod.h"
-#include "Employee.h"
+#include "PayrollDomain/Employee.h"
 #include "PayrollDatabase.h"
 
 extern PayrollDatabase GpayrollDatabase;

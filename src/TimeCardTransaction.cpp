@@ -1,10 +1,10 @@
 #include "TimeCardTransaction.h"
 
-#include "Employee.h"
+#include "PayrollDomain/Employee.h"
 #include "PayrollDatabase.h"
 #include "HourlyClassification.h"
 #include "TimeCard.h"
-#include "PaymentClassification.h"
+#include "PayrollDomain/PaymentClassification.h"
 
 extern PayrollDatabase GpayrollDatabase;
 

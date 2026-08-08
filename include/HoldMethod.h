@@ -1,7 +1,7 @@
 #ifndef HOLDMETHOD_H
 #define HOLDMETHOD_H
 
-#include "PaymentMethod.h"
+#include "PayrollDomain/PaymentMethod.h"
 
 class HoldMethod : public PaymentMethod
 {

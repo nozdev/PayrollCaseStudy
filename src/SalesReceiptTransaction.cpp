@@ -1,7 +1,7 @@
 #include "SalesReceiptTransaction.h"
 #include "SalesReceipt.h"
 #include "PayrollDatabase.h"
-#include "Employee.h"
+#include "PayrollDomain/Employee.h"
 #include "CommissionedClassification.h"
 
 

@@ -1,7 +1,7 @@
 #ifndef ADDEMPLOYEETRANSACTION_H
 #define ADDEMPLOYEETRANSACTION_H
 
-#include "Transaction.h"
+#include "PayrollDomain/Transaction.h"
 #include <string>
 
 class PaymentClassification;

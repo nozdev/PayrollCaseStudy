@@ -1,8 +1,8 @@
 #ifndef PAYDAYTRANSACTION_H
 #define PAYDAYTRANSACTION_H
 
-#include "Transaction.h"
-#include "Date.h"
+#include "PayrollDomain/Transaction.h"
+#include "PayrollDomain/Date.h"
 
 #include <map>
 

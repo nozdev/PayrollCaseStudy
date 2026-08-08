@@ -1,7 +1,7 @@
 #ifndef CHANGEEMPLOYEETRANSACTION_H
 #define CHANGEEMPLOYEETRANSACTION_H
 
-#include "Transaction.h"
+#include "PayrollDomain/Transaction.h"
 
 class Employee;
 

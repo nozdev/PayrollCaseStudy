@@ -1,7 +1,7 @@
 #ifndef MAILMETHOD_H
 #define MAILMETHOD_H
 
-#include "PaymentMethod.h"
+#include "PayrollDomain/PaymentMethod.h"
 #include <string>
 
 
